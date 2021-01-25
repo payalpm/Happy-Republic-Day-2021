@@ -1,0 +1,31 @@
+
+
+#grad {
+    background-image: linear-gradient(red, yellow);
+  }
+
+#s{
+    text-shadow:2px 2px blue;
+}
+#s1{
+    text-shadow:2px 2px blue;
+    color:pink;
+}
+#s3{
+    text-shadow:2px 2px blue;
+    color:red;
+}
+#c{
+    margin-left:0px;
+    width:330px;
+    height:280px;
+}
+.rr{ 
+background-position:center ;
+background-repeat:no-repeat ;
+background-attachment:fixed ;
+background-size:400px 435px;
+}
+
+  
+
